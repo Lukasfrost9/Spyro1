@@ -1,0 +1,15 @@
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\bin\Debug\Spyro3.exe.config
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\bin\Debug\Spyro3.exe.manifest
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\bin\Debug\Spyro3.application
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\bin\Debug\Spyro3.exe
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\bin\Debug\Spyro3.pdb
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\bin\Debug\Spyro3.xml
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.vbprojAssemblyReference.cache
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.Form1.resources
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.Resources.resources
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.vbproj.GenerateResource.cache
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.exe.manifest
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.application
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.exe
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.xml
+C:\Users\lukak\source\repos\Lukasfrost9\RatchetBuild\obj\Debug\Spyro3.pdb
